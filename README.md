@@ -19,3 +19,6 @@ lalu klik kanan dan pilih gitbash here lalu masukan perintah seprti didalam repo
 
 jika login berasil maka akan menjadi file repository seprti dibawah ini
 
+![screenshot 5](https://user-images.githubusercontent.com/47880622/53392993-afade980-39cd-11e9-8f97-9fd2f2bd9dc3.png)
+
+sekian penjelasan tentang README.md
