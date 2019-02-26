@@ -11,3 +11,7 @@ buat repository baru
 
 buat folder baru dengan nama latian1 lalu buka folder latihan1 dan klik kanan lalu pilih dokumen teks lalu bri nama README.md
 
+![screenshot 3](https://user-images.githubusercontent.com/47880622/53392405-d834e400-39cb-11e9-99a7-31de11d55875.png)
+
+lalu klik kanan dan pilih gitbash here lalu masukan perintah seprti didalam repository lalu jika benar maka akan mucul login github seprti gambar dibawah ini
+
