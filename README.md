@@ -15,3 +15,7 @@ buat folder baru dengan nama latian1 lalu buka folder latihan1 dan klik kanan la
 
 lalu klik kanan dan pilih gitbash here lalu masukan perintah seprti didalam repository lalu jika benar maka akan mucul login github seprti gambar dibawah ini
 
+![screenshot 4](https://user-images.githubusercontent.com/47880622/53392784-09fa7a80-39cd-11e9-86bb-302ce1af8956.png)
+
+jika login berasil maka akan menjadi file repository seprti dibawah ini
+
