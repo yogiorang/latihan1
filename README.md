@@ -7,3 +7,7 @@ pertama buka github pada web browser
 
 buat repository baru
 
+![screenshot 2](https://user-images.githubusercontent.com/47880622/53392127-0f56c580-39cb-11e9-9674-ea8154f1d602.png)
+
+buat folder baru dengan nama latian1 lalu buka folder latihan1 dan klik kanan lalu pilih dokumen teks lalu bri nama README.md
+
